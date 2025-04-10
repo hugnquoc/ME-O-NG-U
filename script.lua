@@ -22,7 +22,7 @@ shared.LoaderKeyFrames = {
 };
 local v2 = {
     LoaderData = {
-        Name = shared.LoaderTitle or "HUGNPNTOP-LOADING.....",
+        Name = shared.LoaderTitle or "HUGN ON TOP-LOADING.....",
         Colors = shared.LoaderColors or {
             Main = Color3.fromRGB(0, 0, 0),
             Topic = Color3.fromRGB(200, 200, 200),
@@ -8750,7 +8750,7 @@ v16.Misc:AddButton({
     end
 });
 local v153 = v16.Misc:AddToggle("ToggleAntiBand", {
-    Title = "Chống Band",
+    Title = "Chống Ban ",
     Description = "",
     Default = true
 });
@@ -9249,7 +9249,7 @@ spawn(function()
     end
 end);
 local v175 = v16.Sea:AddToggle("ToggleKillAura", {
-    Title = "Đấm Golems Aura",
+    Title = "Đấm Golems Aura -có thể lỗi-",
     Description = "",
     Default = false
 });
@@ -9324,7 +9324,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "TBoy Roblox",
+    Title = "Hugn IOS hub",
     Content = "Tải Xong",
     Duration = 10
 });
